@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OdeToFood.Web", "OdeToFood.Web.vbproj", "{4CB5FC87-8945-4E83-A9CA-C9A710F7600B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB5FC87-8945-4E83-A9CA-C9A710F7600B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB5FC87-8945-4E83-A9CA-C9A710F7600B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB5FC87-8945-4E83-A9CA-C9A710F7600B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB5FC87-8945-4E83-A9CA-C9A710F7600B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E8D4B2A-04C1-49FF-BAB3-4F99D49117B3}
+	EndGlobalSection
+EndGlobal
